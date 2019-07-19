@@ -16,27 +16,27 @@ Open-source full-stack apps built with [React](https://reactjs.org/).
 
 <br />
 
-## [Material Kit in React / Flask](https://appseed.us/apps/flask-apps/material-kit-creative-tim)
+## [Flask React - Material Design](https://appseed.us/apps/flask-apps/material-kit-creative-tim)
 
-[Material Kit in React / Flask](https://appseed.us/apps/flask-apps/material-kit-creative-tim) is an open-source full-stack app built with **React** and Flask in the backend
+[Flask React - Material Design](https://appseed.us/apps/flask-apps/material-kit-creative-tim) is an open-source full-stack app built with **React** and Flask in the backend
 
-![Material Kit in React / Flask - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/react-flask-material-kit.jpg?raw=true)
-
-<br />
-
-## [Material Kit in React / Express](https://appseed.us/apps/react/express/material-kit-creative-tim)
-
-[Material Kit in React / Express](https://appseed.us/apps/react/express/material-kit-creative-tim) is an open-source full-stack app built with **React** and Express in the backend
-
-![Material Kit in React / Express - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/react-express-material-kit.jpg?raw=true)
+![Flask React with Material Design - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/react-flask-material-kit.jpg?raw=true)
 
 <br />
 
-## [Material Kit in React / Laravel](https://appseed.us/apps/react/laravel/material-kit-creative-tim)
+## [React Express - Material Design](https://appseed.us/apps/react/express/material-kit-creative-tim)
 
-[Material Kit in React / Laravel](https://appseed.us/apps/react/laravel/material-kit-creative-tim) is an open-source full-stack app built with **React** and Laravel in the backend
+[React Express - Material Design](https://appseed.us/apps/react/express/material-kit-creative-tim) is an open-source full-stack app built with **React** and Express in the backend
 
-![Material Kit in React / Laravel - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/react-laravel-material-kit.jpg?raw=true)
+![React Express with Material Design - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/react-express-material-kit.jpg?raw=true)
+
+<br />
+
+## [Laravel React - Material Design](https://appseed.us/apps/react/laravel/material-kit-creative-tim)
+
+[Laravel React - Material Design](https://appseed.us/apps/react/laravel/material-kit-creative-tim) is an open-source full-stack app built with **React** and Laravel in the backend
+
+![Laravel React with Material Design - App Screen Shot.](https://github.com/app-generator/static/blob/master/products/react-laravel-material-kit.jpg?raw=true)
 
 <br />
 
